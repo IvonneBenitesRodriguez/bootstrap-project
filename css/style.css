@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+button.btn.btn-light{
+    border: 1px solid #6070ff;
+    color: #6070ff;
+    cursor: pointer;
+}
+button.btn.btn-light:hover{
+    background-color: #6070ff;
+    color:white;
+}
